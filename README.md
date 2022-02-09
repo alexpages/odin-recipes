@@ -6,3 +6,5 @@ Notes to myself:
 3. I have practiced unordered and ordered lists
 4. I hav dealt with anchors and links to other websites or inner content
 5. etc.
+
+Nice job Alex! :)
